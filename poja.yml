@@ -8,7 +8,7 @@ jacoco-min-coverage: '0.8'
 package_full_name: poja.company.prime
 region: eu-west-3
 ssm_sg_id: /poja-prime/sg/id
-ssm_subnet1_id: /poja-prime/subnet-1/private1/id
+ssm_subnet1_id: /poja-prime/subnet-1/public1/id
 ssm_subnet2_id: /poja-prime/subnet/subnet-2/id
 ts_client_api_url_env_var_name: ''
 ts_client_default_openapi_server_url: ''
